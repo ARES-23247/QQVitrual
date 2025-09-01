@@ -7,8 +7,8 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="TeamCode" />
-    <orderEntry type="module-library">
+    <orderEntry type="module" module-name="TeamCode" exported="" />
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lib/Jamepad.jar!/" />
@@ -17,8 +17,8 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="org.reflections:reflections:0.9.11" level="project" />
-    <orderEntry type="module-library">
+    <orderEntry type="library" exported="" name="org.reflections:reflections:0.9.11" level="project" />
+    <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
           <root url="jar://$MODULE_DIR$/../lib/dyn4j-4.1.4.jar!/" />
